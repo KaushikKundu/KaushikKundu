@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there!!<br><br>🔭 I’m a Computer science engineering student (2022-'26) from Kolkata, India.<br>🤝 I like contributing to open-source projects and part of some great organizations.<br>🌱 I’m currently exploring web development and cloud-native technologies.<br>💬 I like to collaborate with fellow coders and developers.<br>
+Hey there!!<br><br>🔭 I’m a Computer science engineering student (2022-'26) from India. <br>🌱 Currently exploring web development, tinkering with ReactJS <br>💬 I like to collaborate with fellow coders and developers.<br>
 
 
 ## 🌐 Socials:
