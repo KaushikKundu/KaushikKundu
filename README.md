@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kaushik Kundu
 =====================================================================================================================================
 
-💻Avid programmer loves to code in Javascript<br>
-🔭 I’m a Computer science engg. student from India.<br>
+🧑‍💻 I’m a Computer science engg. student from India.<br>
 🌱 Currently exploring Javascript and Backend Development.<br>
 💬 I like to collaborate with fellow coders and developers.<br>
 📚 Keen interest in Full Stack Engineering and cloud-native technologies.
