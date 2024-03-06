@@ -2,13 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 🧑‍💻 I’m a Computer science engg. student from India.<br>
-🌱 Currently exploring Javascript and Backend Development.<br>
-💬 I like to collaborate with fellow coders and developers.<br>
-📚 Keen interest in Full Stack Engineering and cloud-native technologies.
+🌱 Learning web Development primarily with Javascript .<br>
+💬 I like to learn & collaborate with fellow coders and developers.<br>
+📚 Interested in Full Stack Engineering, Golang, Rust.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [kaushikkundu774@gmail.com](mailto:kaushikkundu774@gmail.com)
-* ⚡  In my spare time, Love to play chess, read non-fiction books.
+* ✉️  You can reach out to me at [kaushikkundu774@gmail.com](mailto:kaushikkundu774@gmail.com)
 
 ### Skills
 
