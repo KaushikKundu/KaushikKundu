@@ -1,6 +1,8 @@
-🧑‍💻 I’m a cs undergrad from India.<br>
-🌱 Learning web Development primarily with Javascript .<br>
-📚 Interested in Full Stack Engineering, Golang, Rust.
+### 📌 About Me
+ I’m a cs undergrad and a full-stack developer from India.<br>
+ Mostly interested in Backend development, DevOps.<br>
+ I aim to write performant, efficient code with maximum readability.<br>
+ Otherwise, I like to read and dive deeper into technologies to understand how it works under the hood. 
 
 ✉️ You can reach out to me at [kaushikkundu774@gmail.com](mailto:kaushikkundu774@gmail.com)
 
@@ -17,10 +19,6 @@
 
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,expressjs,tailwind,nextjs,)](https://skillicons.dev)
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/KaushikKundu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="36" /> </picture> </a> <a href="https://www.linkedin.com/in/kaushik--kundu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="36" /> </picture> </a></p>
 
 ### Badges
 
