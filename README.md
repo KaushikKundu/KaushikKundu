@@ -1,6 +1,5 @@
 ### 📌 About Me
  I’m a cs undergrad and a full-stack developer from India.<br>
- Mostly interested in Backend development, DevOps.<br>
  I aim to write performant, efficient code with maximum readability.<br>
  Otherwise, I like to read and dive deeper into technologies to understand how it works under the hood. 
 
