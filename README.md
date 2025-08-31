@@ -1,25 +1,23 @@
 ### 📌 About Me
- I’m a cs undergrad and a full-stack developer from India.<br>
- I aim to write performant, efficient code with maximum readability.<br>
- Otherwise, I like to read and dive deeper into technologies to understand how it works under the hood. 
+👋 Hey, I’m Kaushik.
+I’m a CS undergrad & full stack dev who enjoys learning & building things.
+I gravitate towards backend and systems where performance, scalability, and clean design matter.
+
+
+Otherwise, I love reading blogs & tinkering with new tools and stuff to shave miliseconds off my workflow lol.<br>
+Right now: diving deeper into backend and infra stuff.
 
 ✉️ You can reach out to me at [kaushikkundu774@gmail.com](mailto:kaushikkundu774@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=KaushikKundu)
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,java,js,ts,rust)](https://skillicons.dev)
+### Languages & frameworks
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,expressjs,tailwind,nextjs)](https://skillicons.dev)
 
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,git,bash,prisma)](https://skillicons.dev)
+### Tools & DB
+[![My Skills](https://skillicons.dev/icons?i=linux,prisma,docker,redis,mongodb,postgresql,git)](https://skillicons.dev)
 
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql)](https://skillicons.dev)
 
-### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,expressjs,tailwind,nextjs,)](https://skillicons.dev)
-
-### Badges
 
 <b>My GitHub Stats</b>
 
